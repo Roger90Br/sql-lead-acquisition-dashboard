@@ -6,7 +6,7 @@ Este repositório contém uma visualização do **dashboard** em formato **JPEG*
 - **Imagem (JPEG)** do dashboard com as visualizações de dados, como distribuição de gênero, grau de escolaridade, média de idade dos leads e outras métricas relevantes.
 
 ### Como usar:
-1. Abra o arquivo **dashboard_image.jpeg** para visualizar a análise de dados.
+1. Abra o arquivo **dashboard_image.jpg** para visualizar a análise de dados.
 2. Essa imagem representa as visualizações do dashboard feitas a partir dos dados extraídos via **SQL**.
 
 ---
